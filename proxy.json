@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://jtfff-my.sharepoint.com/$1"}
+      {"dest": "https://jtfff-my.sharepoint.com/$1"}
   ]
 }
