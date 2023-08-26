@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://txdsb.top/$1"}
+      {"src": "/(.*)","dest": "http://txdsb.top:5244/$1"}
   ]
 }
